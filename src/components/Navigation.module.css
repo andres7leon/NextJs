@@ -1,0 +1,14 @@
+.header {
+    boder: 1px solid #f0f0f0;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    background-color: bisque;
+    margin:  1rem;
+    gap: 32px;
+    height: 4rem;
+}
+
